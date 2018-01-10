@@ -88,4 +88,5 @@ Harmonogram:
 - ··4 tydzień - dodajemy pociski do gry.
 - ··5 tydzień - dodajemy okrągłe komety.
 - ··6 tydzień - dodajemy wykrywanie kolizji.
-- ··7,8 tydzień - poprawiamy funkcjonalność oraz dopracowujemy logikę.
+- ··7 tydzień - dodajemy ilosc zyc i zlikwidowanych obiektow.
+- ..8 tydzień - optymalizacja gry(zmiana int na unsigned int)
